@@ -31,7 +31,7 @@ body, html {
   border-radius: 1rem;
   transition: background-color 0.3s ease, transform 0.2s ease;
   box-shadow: 0 12px 24px rgba(0,0,0,0.3);
-  background: #1A1A1A:
+  background: #1A1A1A;
 }
 
 .play-button:active {
